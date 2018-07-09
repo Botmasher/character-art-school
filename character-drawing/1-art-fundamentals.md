@@ -53,11 +53,76 @@
 	- our last concern
 - observe and study to break things down this way
 
-## Skills vs Emotion
-- 
+## Skill vs Emotion
+- piece that is technical will not win over piece that has emotional impact
+- viewers may be blind to technicalities if emotive
+- understand that these aspects are "weighty"
+- "story, feeling and emotion"
+- relates to believability and realism
 
 ## Story
-- 
+- vision: conception of who the character is
+	- where do they live?
+	- what's their personality?
+	- what's the mood?
+- again, emotional impact is key
+- appeal: give people emotion and effectively communicate piece to viewer
+- super important: artwork is the medium
+	- create something cool, don't aim to make cool art
+- focus on the concept and the vision not the medium
+- could for example use words in book to create your same character
+	- "do justice to" your concept
+	- "story is everything" in character art
 
 ## Believability and Realism
-- 
+- draw for appeal
+- which matters more, believability or realism?
+	- this goes back to technical skills vs emotion
+	- remember that to make things meaningful believability wins
+- don't get bogged down by how realistic something looks
+
+## Maturity as an Artist
+- a few points to focus on in your journey
+	1. be selfish: focus on your own work, not the works of others, impress yourself
+	2. fear: work through it and be brave (consider _Art and Fear_)
+	3. fear of failure: be willing to fail in order to learn valuable things
+	4. fear of technical ability: learn and exercise using repetition
+- art is a medium so treat it as a technical process
+- character drawing is not abstract, so realist, therefore rules apply
+
+## Art Studies vs Art Creation
+- art studies: learn and observe using visual notes and exercises
+	- who cares what it looks like
+	- observe and take notes
+	- mostly for yourself
+- art creation: make the main artwork
+	- appeal and a good story
+	- mostly for viewers
+- these connect to fear
+	- be fearless when making art
+
+## Imaginative Art
+- observational vs imaginative
+	- observe and recreate, maybe with twists, from a reference
+	- create straight out of your head and get it onto the page
+- imaginative art requires firm understanding of theory
+	- this is great for character art
+	- this is the actual art created in this course
+- observational art is a study tool for clothes, hair style, ...
+- artists mix both
+
+## Module 1 Summary
+- shape, form, detail
+	- triangles differ between artist thinking, implementing and viewer seeing
+	- shape as a "hidden reason why" a piece feels good
+- technical skill vs emotional impact
+- story is everything
+	- linked to emotion
+- focus on believability over realism
+- study vs creation
+- imaginative vs observational
+	- observational easier and straightforward, often people on the street art
+	- imaginative realism as normal for character design
+
+## Module 1 Assignments
+- draw a character (used as gauge when draw same character at end of course)
