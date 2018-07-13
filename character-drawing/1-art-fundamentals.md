@@ -117,7 +117,7 @@
 	- shape as a "hidden reason why" a piece feels good
 - technical skill vs emotional impact
 - story is everything
-	- linked to emotion
+	- linked to emotional
 - focus on believability over realism
 - study vs creation
 - imaginative vs observational
