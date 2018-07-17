@@ -49,13 +49,45 @@
 - so draw through and imagine volume and mass!
 
 ## Dynamic Drawing
--
+- looseness and dynamism
+- looseness is physical
+  - slow lines are less straight and have less directionality
+  - loose lines look smooth and taper on the ends
+  - slow curved lines look disrupted and less flowing
+  - draw with your arm for bigger shapes, wrist for small shapes
+  - do not do small, fast, scratchy lines
+  - do not do long, slow lines
+  - loose strokes look professional
+- dynamism is movement and shape flow
+  - opposite of static
+  - give shapes a flow by moving in a "definitive direction"
+  - in real motion and perspective characters aren't symmetrical
+  - bend forms to bring life into shapes
+  - bring motion to viewers especially with life
+- smooth, dynamic lines are more interesting to viewer
 
 ## Showing Depth
--
+- tangents
+  - two objects touch each other (their lines)
+  - it's unclear where they separate
+  - overlap lines to show which objects are in front of others
+- overlaps are better than tangents
+  - tangents result in flatness that causes uncertainty
+- knee lines are one example
+- simple shapes overlapping help viewer distinguish
+- make this explicit: do I have any tangents?
 
 ## Asymmetry
--
+- parallels
+  - parallel lines (literal)
+  - parallel objects (mirroring)
+  - parallel counts (symbolic)
+- parallels "feel too balanced"
+  - break them up
+  - if you have two mountains equally spaced apart
+- avoid them at all times
+  - even if it means doing odd numbers of buttons on shirt
+- ask: does this feel too engineered? would asymmetry improve it?
 
 ## Communicating with Lines
 -
