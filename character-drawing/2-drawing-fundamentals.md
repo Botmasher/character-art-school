@@ -90,10 +90,75 @@
 - ask: does this feel too engineered? would asymmetry improve it?
 
 ## Communicating with Lines
--
+- line weights
+- atmospheric perspective
+  - imagine a close vs far object
+  - further object is lighter
+  - air buildup between objects
+  - more air with more distance
+  - so air lightens values with distance
+- line weighting enhances overlaps
+  - introduce atmospheric perspective
+  - "thicker lines come forward"
+  - "thinner lines recede"
+  - weight the front overlaps and even darken the back lines coming out of overlap
+- make inner details thinner and lighter
+  - muscular details, shirt creases
+- make overlaps darker
+  - heads, shoulders when objects slung behind them
+  - emphasize hands and arms holding things when overlap with body
+- background objects will have lighter lines even for their silhouette
+  - consider what is your focal point
+- stack your theory:
+  - forms -> overlaps -> line weights
+  - consciously check your pieces as you go along
 
 ## Planning Lines Ahead
--
+- thinly and lightly
+- rather than heavy lines, don't press hard and draw lighter lines
+  - provides more contrast
+  - very useful for rough sketch
+  - helps control line weights
+  - allows for corrections
+- avoid erasing dark lines to thin them out
+- modify construction and, again, control line weights
+- when ignored to the extreme, you end up with hectic, dark drawings
 
 ## Speed Drawing
--
+- beginners often hesitate to draw quickly
+- draw fast
+  - again, be loose (speedy translates to loose which translates to natural)
+  - be accurate in the way the shapes read but not in the little details
+- major asset: you can do more drawings
+  - progress faster
+  - save corrections for refinement
+- pay attention to your goals (drawing fast is a major component)
+
+## Two Stage Drawing Workflow
+- workflow: order and steps to get work done
+- two stages: the rough (part 1) and the refined (part 2)
+- rough drawing
+  - make solid foundations
+  - implement theory
+  - plan or blueprint
+  - carefree but kind of ugly
+  - check off boxes, don't make it pretty (construction site)
+- refined drawing
+  - neat and clean (including clean lines), with a focus on presentation
+  - this is where you make it pretty
+  - remember this is secondary to the rough
+  - still a very creative stage
+    - "the most creative"
+    - since rough was structural, now you get to do the "decorating"
+  - try out new lines and colors
+- build the fun, creative refined on structural, theory-implementing rough
+- theory is in the rough but refined takes longer (80/20)
+- shape-form-detail triangle "implies a workflow"
+  - shape and form and detail, then a refinement
+  - as a beginner, rough stage includes shape-form-detail
+  - refined stage has its own theory but nothing as heavy as rough
+- this course will focus on the rough
+  - it's easier to finish up a strong foundation than fix a bad one
+
+## What is Style?
+- 
