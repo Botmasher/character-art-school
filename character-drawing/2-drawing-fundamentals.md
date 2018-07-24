@@ -161,4 +161,85 @@
   - it's easier to finish up a strong foundation than fix a bad one
 
 ## What is Style?
-- 
+- common question: what's your style? how do you get it?
+- two types:
+  - stylistic genres
+    - proportional rules
+    - design choices
+    - yields distinct looks
+    - line from realistic to unrealistic
+  - personal style
+    - develops naturally on its own
+    - how you tend to draw
+    - what you like to draw
+- even while borrowing from a genre you contribute to it
+- you can move towards a genre if you enjoy that
+
+## How to Use References
+- using references for study
+  - copy and observe
+    - to learn about the reference
+    - to be able to get a better understanding of your art
+  - look at the reference
+  - break down into theory: interested in values, lighting, ...
+  - useful for:
+    - anatomy
+    - gesture drawing
+    - different camera angles
+  - _but_ avoid using:
+    - to trace
+    - or as basis for artwork
+- using references for design
+  - the best reasons to use and ideal for imaginative work
+  - understand colors
+  - faces and expressions
+  - the pose
+  - overall composition of the reference
+  - mechanical operation or design
+  - camera lens for things like f stop
+- remember to keep references separate from your work
+  - there are elements you care about
+  - but you are not creating that reference
+
+## Developing Your Visual Library
+- pull from your mind instead of always from references
+- VLD process
+  - two drawings from two references
+    - each done with rough -> refined workflow
+  - one drawing from imagination
+    - creatively make your own version
+  - lay each out on the page and number them 1, 2, 3
+- this process also doubles as a good warmup
+- draw beside not over the image
+- keep striving for thin and light while exploring forms
+- physically use a lightbox, digitally lower opacity and do top clean lines
+- once done, again lay each out on page numbered (mentioned in process)
+
+## Theory Stacking
+- TODO: make a checklist for implementing the theory
+- implement multiple theories in an ordered way
+- this course starts with fundamental theories and builds towards more advanced
+- finished piece stacks many theories
+- imagine an example of a box
+  - draw through forms
+  - think through rough-refined workflow
+  - now you're thinking about looseness and dynamism -> directionality
+  - then tangent and parallels
+  - now you decide to make edges more dynamic by bending lines
+  - then line weights come into play -> drawing fast
+- the above shows how you end up stacking theories as you draw
+- once you turn on your lightbox and do refinements, combine those theories
+  - work through them, being loose with arm
+  - don't need to draw through
+  - at the end you have separate, clean lines
+- ask yourself questions while you stack in the rough
+  - actually build and write up your own list of boxes to check
+  - key examples:
+    - am I drawing loosely?
+    - do I have dynamic shapes?
+    - am I sticking to a two-stage workflow?
+    - am I checking parallels?
+
+## Module 2 Assignments
+- use VSD and theory stacking to draw 3 themes per week
+- spend 1 hour on each theme
