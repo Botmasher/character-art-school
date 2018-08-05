@@ -113,4 +113,71 @@
 - basic forms can be converted into dynamic, living forms
 
 ## Drawing the Head and Neck Forms
+- head typically two shapes: sphere and triangular form and cylinder
+  - cylinder as the neck
+  - "triangular form" as two side triangles joined by square plane normal front
+  - sphere as cranium
+- directionality to the head
+  - neck should be directional: smaller at top
+  - drawing on rotation to see multiple sides instead of flat front of face
+  - sphere and cylinder should imply bending to chin
+  - do 3/4 rotations to see depth and dynamism
+- feel out the forms as you draw, attaching them as appropriate
+  - neck to base of cranium
+  - neck will scale up to below chin to meet torso
+- play with bending the forms and sizing them to get different shapes
+  - bend back cylinder and head for new look
+  - stack forms imagining like top and bottom view
+  - small ellipse and big for neck, as well as triangle shape tapering for chin
+- chin triangular block can be long or short for different looks
+- make forms directional
+  - mold triangle block so it comes off face and has directionality downwards
+  - mold neck so that it's bigger and bends up to smaller for direction up
+- later: reasons for directionality in living forms
+- adding skin
+  - overlay skin atop forms using what we know about overlaps
+  - again, sphere, down to triangular block, then cylinder
+  - drop in the eyeline while you're at it
+  - add in proportional features for eyes, nose, mouth
+  - get harder lines in place for skin placement
+  - line weights and overlap atop neck
+- working with good shape-form and adding directionality makes it believable
+  - audience geared to see the 3D and life
+- amateur flat and blocky forms will not read as believable
+- strong forms with limited quick work, on the other hand, gives sense of detail
+- remember module 2: _loose lines_ and _line weights_ matter here!
+
+## Drawing the Chest, Abdomen and Pelvis Forms
+- rudimentary shapes for getting torso right
+  - chest starts with rectangular block
+  - abdomen starts as sphere
+    - allows for abdominal rotation as a "hinging point"
+  - pelvis could be a basic upside-down triangle
+- forms that allow adding head and neck
+  - bend chest block for rounded side lines
+  - add v-shape to bottom of chest block
+  - now slide abdominal sphere into v plug
+  - start triangular pyramid pelvis coming down from ellipse more like a bowl
+  - bend triangular pyramid pelvis down from top of bowl to a point
+  - draw ellipses on both sides of pointy bowl for plugging in legs
+- mess around with rotations (we've been doing 3/4 view)
+  - get side view of pelvis to see where leg plugs in even better
+  - really play with pivoting and twisting forms from the abs
+  - top of chest marks shoulder line
+  - motion: shoulder line and pelvis line are not parallel
+  - notice where centerlines point - they show where character faces and twists
+  - change pelvis centerline to see twist: chest and pelvis face different ways
+- skin on the forms
+  - focus on being loose and not worrying so much about proportions
+  - basic dynamic forms again for chest, abs, pelvis
+  - make sure they have directionality
+  - surface detail follows form of chest, then down to pelvis
+  - then out around pelvis (no legs yet) and v groin at bottom of triangle
+  - chest above ribcage v notch
+  - anatomy adds little details for iliac crest and delts about shoulder
+  - imagine cloth falling over forms
+  - add head and shoulder plugs
+  - ribcage v implies a v for the skin detail
+
+## Drawing the Arms and Legs Forms
 -
