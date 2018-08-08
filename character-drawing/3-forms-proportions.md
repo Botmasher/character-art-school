@@ -180,4 +180,83 @@
   - ribcage v implies a v for the skin detail
 
 ## Drawing the Arms and Legs Forms
--
+- use cylinder for limbs
+  - use dynamism to show off movement of limbs
+  - curves between larger and smaller ellipses
+  - don't need anatomy, just bending basic forms
+- opposing curves theory (talked about in module 4)
+  - if one thing curves one way, the other cuves the other way
+  - this as applying throughout anatomy (mentioned at end of next section)
+- arms attach to points in chest block from torso
+  - one cylinder each for the upper and one for the lower
+  - bend each in different ways
+  - then add hands to achieve different dynamics
+- instructor doesn't add joint balls
+  - apart from pelvis and sometimes knee
+  - they encumber limbs drawn on top of them
+  - instead draw ellipses then from there rest of cylinder
+- arm measurements
+  - lines from rib cage to end of upper cylinder
+  - lower bent cylinder down to legs
+- legs
+  - start from pelvis
+  - draw ellipse nearby but sticking out from pelvis
+  - bend cylinders down to knee
+  - use lowers to make a pose but use opposing curves
+- apply dynamism to avoid static, non-living drawings
+  - _really_ understand that blocky, non-dynamic forms don't read well
+- arm and leg with skin
+  - notice bigger ellipse is at the top
+  - notice both have same basic two-cylinder forms
+  - add skin lines around cylinders
+  - add basic skin connecting a knee with a v
+  - add basic skin connection an elbow v
+- indicate hands
+  - right now indicate them with ellipses beyond the second dynamic cylinder
+
+## Drawing the Hands Forms
+- standard poses with hands are not too difficult
+  - can be figured out without reference
+- basic forms
+  - palm with a block
+  - fingers with a cylinder
+  - make these dynamic (you know by now... bend them!)
+- form palms
+  - smaller plane at bottom, larger at top
+  - connect with bent side lines
+  - mark circle for thumb and circles for fingers
+- form fingers
+  - three cylinders each with opposing curves to last
+  - three parts but 1-3 can be used depending (such as thumb)
+- use proportions for middle finger and thumb placement from before
+- demonstration
+  - do a 3/4 hand structure to see front and side
+  - mark fingers and sphere for thumb
+  - line jutting fingers out perpendicular from palm maybe bending a little back
+  - from there the other two opposing curves come out of each finger
+  - the second cylinder opposes a bit forward
+  - make sure to account for each cylinder's length to add up to total finger
+  - thumb comes out (one cylinder) then ends in opposing second cylinder
+- palm poses
+  - consider how palm block bends depending on the pose
+  - side of the palm should clearly bend
+- add skin
+  - use your own hands as reference
+  - follow the form lines even when they lead into the palm (like thumb)
+  - basic skin layer connecting cylinders
+- why use these forms
+  - muscles and skin layers are hard to rotate in space
+  - dealing with simple curved cylinders and a bent block are much easier
+  - these forms make imagining other sides so much easier, too
+  - the details can change (like front to back)
+- indicating hands in bigger drawings
+  - indicate instead of getting all the forms down during a drawing
+  - draw in the form for the palm
+  - then just indicate dynamic lines for the fingers (bending the fingers)
+  - lines should show directionality and should have the right proportions
+  - this way you can come back to add forms later
+- focusing on finger bend
+  - follow the curves and place cylinders to articulate along the finger
+  - opposing curves rule is crucial
+  - think of how finger is bending and interacting
+  - notice how final cylinder turns when finger presses a solid surface
