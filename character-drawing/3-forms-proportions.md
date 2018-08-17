@@ -260,3 +260,51 @@
   - opposing curves rule is crucial
   - think of how finger is bending and interacting
   - notice how final cylinder turns when finger presses a solid surface
+
+## Drawing the Feet Forms
+- feet have pyramid block type shape
+- side view looks triangular, with larger front and less in back
+- front tip represents individual toes has split point
+- heel connector as split point
+- drawn through, bottom is square plane, top is blocky
+- splits
+  - front split for toes
+  - second front split behind that for front of foot
+  - large rest of first forward half for arc of foot
+  - heel as everything behind (smaller volume)
+- add opposing curves for dynamism
+  - arc front of foot down
+  - heel has opposing kind of up
+  - toes bend up opposing the arc
+  - with more detail, first toe curve is up, toes actually then curve in/down
+  - toeline: curve from small toes to big instead of straight across
+  - mark out the toes
+  - treat heel as section apart from arc
+    - curve the back for the heel
+    - curve the bottom of the foot for the arch
+- the curves add "overskin layer"
+- note top/bottom view has outer and inner curves
+  - opposing curves still: out for big toe, in beside big toe, out ball, in arch, out heel
+  - note the long curve on the outsidebelow the small toe
+- from here attach the leg
+
+## Drawing the Breast Forms
+- no bone structure here, instead soft
+- spherical type of shape but taper top for egg-like shape
+- draw chest with notch again
+  - put down center line
+  - notch at top for clavicle joining collar bone
+- flatten out then curve low chest
+- imagine water balloons pushed against a hard surface
+- use notch on top for positioning
+  - draw shapes from notch, going away from midline
+  - draw down to bottom of water balloons
+  - that's just a guide though not the detail or muscle
+  - musculature is different and actually tucks under deltoid/shoulder
+  - far side breast shows "flattening" in 3/4 view
+- heuristics
+  - upside down heart below out of that clavicle notch
+  - malleable water balloons against surface and impacted by gravity
+
+## Putting the Forms Together
+- front and back of male and female bodies
