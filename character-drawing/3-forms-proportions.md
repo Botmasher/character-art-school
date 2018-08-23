@@ -356,4 +356,56 @@
 - this shouldn't be detailed and should all be achievable at this point
 
 ## Drawing the Eyes
+- eyeball form as sphere
+- side view shows concave iris in front and lens on top of that
+- pupil, places in back collecting light and color, cup shape, connector for brain
+- put iris and pupil on top and then be able to rotate
+  - sphere, then iris and pupil as 3 concentric circles
+  - add a bit of lens when rotating
+  - rotate it: another spehere, contour lines, then ellipse on the side
+    - this is rotating the eye form, not just the eye in its socket
+  - remember lens is convex so pupil moves slightly in
+  - do the same rotating the opposite way horizontally
+- specular highlight
+  - show how lens works and light bounces off eye
+  - little highlight indication near pupil
+- get used to doing the spherical eyes before building up
+- eyelid
+  - start with rotated eye, slightly elliptical iris and pupil, highlight
+  - lids wrap around eyeball
+  - form: start with basic lines going from contour edges around the eye
+    - imagine thick volumes around eye, so structure has bands and extra lines
+    - these hold eye into the socket
+    - upper and lower thickness not always visible, but whichever is is wet
+    - upper eyelid has indented curve before hitting browline
+- do some rough drawings at this point to get eyes and wrapped eyelids down
+  - practice adding thick eyelid curves and sketching their mass
+  - practice eyes looking in different directions from different angles
+- eyelashes and eye details are... well, just details for later
+- simple tips
+  - heuristic: concave in the iris, convex in the lens
+  - typically draw from a rotation, often 3/4
+  - draw in the spheres in the right location
+  - make the eyelid heights the same but differentiate their curves
+    - the far eye has a sharp, almost right-angle eyelid curve
+    - the near eye has a gentle eyelid curve
+    - opposing curves: left side of near eye is an opposing diamond-shape curve
+    - that curve comes from inner tear duct, opposing until down that gentle slope
+    - the bottom eyelid is similar mirrored, making rounded diamond pattern
+  - the rotation often makes far eye go into that single right-angle curve instead
+    - then the bottom of that eye shape does the two opposing curves
+  - near eye ends up wider than far eye in 3/4 rotation
+  - corners should point to each other
+  - always leave a space between far side eye and headline
+    - some draw up to or even over that side line
+    - remember to leave that proportional space
+  - upper lid lines crease, but lower lines aren't as creased
+    - draw in lines to show volume of upper lids
+- eye placement on basic head form
+  - place spheres at eyeline
+  - use shorthand and tips to draw upper eyelids
+  - save other lines until you're ready
+  - when you are ready, come back to the indications and fill out eyes
+
+##
 - 
