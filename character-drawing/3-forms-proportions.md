@@ -307,4 +307,53 @@
   - malleable water balloons against surface and impacted by gravity
 
 ## Putting the Forms Together
-- front and back of male and female bodies
+- drawing front and back of male and female bodies, then adding skin layers
+- male
+  - start with male head form
+  - down to chest, imagining heads proportionally down body
+  - add neck (put chest before neck)
+  - down to ab ball
+  - then pelvis
+  - over to arms, very loose, bendy cylinders
+  - no need for small spherical joints to know joint is present
+  - legs, but of course much larger than limbs
+  - keep proportional head count down legs
+  - the triangular feet
+  - circular hand indications
+  - center lines down the middle of forms to connect things
+- male back view
+  - different perspective, same process
+  - imagine tilt and the back view of torso
+  - make sure to use cylinders and opposing curves
+- female
+  - expect shorter shoulder and wider hips compared to version
+  - chest
+  - ab, and at this point add centerline guides
+  - pelvis "cup"
+  - hips out
+  - simple forms with Dynamism
+  - legs down to feet
+  - then add in arms and simple hands
+  - check curves, add breasts
+- female back view
+  - same forms and theory
+  - remember to try drawing fast since construction is messy
+  - make sure shoulders aren't too broad
+  - check scaling to make sure proportions are right
+- return to male front and back
+  - lightly erase or turn down opacity on construction
+  - add skin layer guided by lines
+  - knee bump and crotch section
+  - not every line needs connected
+  - just indicate the hands
+  - following the forms can yield effective skin layer
+  - v buttocks
+- return to female front and back
+  - this is basic and rough but important
+  - later you can study more advanced anatomy
+  - keep learning anatomy, since it's an advantage
+  - follow the forms for skin layer
+- this shouldn't be detailed and should all be achievable at this point
+
+## Drawing the Eyes
+- 
