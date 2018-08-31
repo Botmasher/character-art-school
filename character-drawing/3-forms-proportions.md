@@ -407,5 +407,51 @@
   - save other lines until you're ready
   - when you are ready, come back to the indications and fill out eyes
 
-##
-- 
+## Drawing the Ears
+- like very squished cylinder on its side with large and med elliptical ends
+- take a cross section diagonally along the cylinder, cut the larger piece off
+- now rotate this so it protrudes with upper end out
+- don't draw thin flappy ears hanging off the side of a line
+- instead suggest the skin not seen behind and the front opening
+  - form coming out of head not just loose skin hanging off
+  - the structure inside of ear is added to this basic form
+- variation: more or less rounded, lobes that connect or don't
+- interior ear lines
+  - draw outer curve
+  - draw inner arc paralleling top of outer curve
+  - draw small horizontal line from medial part of that arc
+  - draw an upside-down bottle shape starting above the line that comes back up
+  - have the bottle shape end in a Q well before meeting the inner arc
+  - pull another line down out of the end of the inner arc
+  - indicate two diagonal lines between inner arc and bottle
+- 3/4 view of ear
+  - tilt same speaker/cylinder shape out a little
+  - remember that ear tilts back
+  - now you need to overlap the top part of inner arc over its back part
+  - draw that small line, then the bottle, then interior flap Q
+  - then the other lines and you're good to go
+
+## Drawing the Nose
+- pyramidal structure with flat plane front, square plane bottom
+- smaller on-their-side pyramidals going from bottom front to each side
+- bend these forms and add curves to start seeing shape
+  - bending nostril triangular side shapes you really start to see a nose
+- tricks: straight on view
+  - horizontal squished ellipse for straight on
+  - add the bottom of nostrils at angles from bottom of nose
+  - now you can simply add round sides of nostrils implying bottom and bridge
+  - this is often good enough to suggest whole nose
+  - with bridge you can imply side planes
+- tricks: 3/4 view
+  - tilted ellipse for 3/4 view
+  - draw near nostril with slight downward tilt
+  - round out bottom of nose
+  - one style has "pixie" nose curving back from the bottom point
+  - optionally add one more line for side curve of nostril
+  - "sticking out" nose bends up into bridge instead of pointing
+- from here you can change proportions and forms for different noses
+  - emphasize bottom of nose shape and nostrils
+  - manga style with more of a bump rather than bottom curve and top curve
+
+## Drawing the Mouth and Lips
+-
