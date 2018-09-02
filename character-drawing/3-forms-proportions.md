@@ -454,4 +454,66 @@
   - manga style with more of a bump rather than bottom curve and top curve
 
 ## Drawing the Mouth and Lips
+- lots of anatomy
+- skull above top teeth is very curved (the top jaw)
+- bottom jaw also curved
+  - connection from side near ears
+  - cylindrical (half cylinder) for bottom
+- so the mouth should be built atop cylindrical form
+  - while drawing mouths know what's beneath the face
+  - it's "very, very round"
+- construction of mouth
+  - place mouth on mouthline from basic head before
+  - draw curved line
+  - 3/4 angle shows rounded mouth and downward curves at sides
+- lips as five cylinders
+  - top lip: two angled on sides, one squished in mid
+  - bottom lip: two angled cylinders
+- adding dynamism to lips
+  - bend cylinders for thin sides and thicker mids
+  - don't forget mid point
+  - opposing curves implies bottom bow
+- skin: follow forms around, top mid bump
+- indicate the teeth often with curved line
+- tricks or techniques
+  - usually no need to draw in every lip line
+  - often draw in mouth and hint at bottom lip shadow
+  - sometimes hint at top lip indent
+- the underlying forms impact indentations in lips
+- hinting along with gloss/highlights
+- add mouth corners for believability
+- though lips blend into other skin some styles require lines
+- bottom line of top lip is darkest line
+
+## Demo of Facial features
+- again, be messy and loose
+- do face, jaw, neck
+- find lines and ear height
+- shape out eyes, eyebrows, nose as learned
+- draw iris with looking direction
+- add a mouth line and lip anatomy
+- construct ear and play with ear height
+- leave hair off for now
+- rough in ear parts, the ear anatomy trick
+- flip image to keep checking if things escape you
+- fix eye size and line up bottom eye lines
+  - keep the proportions right
+- cheek shape and position
+- neck shape and position
+- fill out ellipse for bottom nose plane
+- at this point the rough should be close to done
+- hair and details like clothing are added later
+- traditional: rough, lightbox for refined, maybe one more iteration
+- now do your skin and lines
+  - get clean lines around structure
+  - keep lines simple and few
+  - adjust and refine while drawing over
+  - indicate lashes if you want (instructor does 3)
+  - imply lower inside shape of eye and imply bottom of iris
+  - eye highlight
+  - nose, nostril, side curve
+  - top lip line, mouth corners, bottom of mouth
+  - imply teeth, darken mouth if needed, bottom lip shadow
+
+## Let's Talk about Anatomy
 -
