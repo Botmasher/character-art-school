@@ -131,7 +131,7 @@
   - small ellipse and big for neck, as well as triangle shape tapering for chin
 - chin triangular block can be long or short for different looks
 - make forms directional
-  - mold triangle block so it comes off face and has directionality downwards
+  - mold triangle eblock so it comes off face and has directionality downwards
   - mold neck so that it's bigger and bends up to smaller for direction up
 - later: reasons for directionality in living forms
 - adding skin
@@ -516,4 +516,7 @@
   - imply teeth, darken mouth if needed, bottom lip shadow
 
 ## Let's Talk about Anatomy
--
+- anatomical knowledge as beneficial and no way to get around
+- review the anatomy study plan
+- understand the suggested anatomy resources
+- but wait for the next module since gesture drawing applies so much of this
