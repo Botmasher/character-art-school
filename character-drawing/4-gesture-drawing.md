@@ -66,4 +66,59 @@
   - secondary lines may summarize movement in limbs and the head
   - secondary lines are often S-curves or opposing curves but can simplify to C
 
-## 
+## Lines of Importance
+- _Line of Action_ is the primary line from the last bit on movement in the pose
+- _Spinal Line_ suggests the silhouette of the torso and defines the curve of the back
+- _Center Line_ runs axially through the forms and helps measure for feature placement
+  - helps place not only things like facial features but also patterns or buttons on clothing
+
+## Axis of the Form
+- horizontal tilt axes
+  - use eyeline to determine horizontal head tilt
+  - use shoulders for upper body tilt
+  - use pelvis for pelvic tilt
+  - use knees for leg tilt
+- vertical tilts
+  - basically centerlines through the head, torso, pelvis, two legs
+- avoid having any parallels to make sure your characters are dynamic!
+- consider examples with and without parallels
+  - draw construction for a figure that's "tiltless"
+  - now use a selection tool to tilt each of the above
+- "contraposto" or "counterpose" as example
+  - this even shows small squash-and-stretch on the sides of the torso
+- avoid tiltless art unless you mean for something to look "blueprinty"
+
+## Basic Gesture Drawing
+- start with the head
+- establish the primary line of action
+- then build on the line to find tilts
+  - the eyeline, shoulderline, pelvic line
+  - the knee line if you can find it (some poses make this harder)
+- get the shapes in, focusing on gestural flow not anatomical drawing
+  - forearm then upper arm
+  - simply indicate hands
+  - indicate the neck
+  - now get lines around the chest and abdomen
+  - get the pelvis in
+  - draw the directional shapes for the upper and lower legs
+  - simply indicate the feet
+- scale may be off but anyone should be able to read the gesture from your sketch
+- get to the point where you can do this in 60 secs for a figure
+  - this should be quick and messy but readable and replicable
+
+## Dynamic Form Gestures
+- start with shape then move to form if you're having trouble
+- once the head, line of action and tilt are in move to forms
+  - head with circular then jaw
+  - chest with notch and ball abdomen
+  - pelvis like pyramidal bowl again
+  - the leg cylinders for both legs
+  - the triangle block feet with no more detail than that
+  - the forearm and upper arm cylinders for both arms
+  - indicate the hands
+  - work out any curvature issues but keep it rough
+- again, this isn't for the anatomy it's for the dynamism
+  - you're supposed to feel out the figure's forms
+  - so many of the instructor's students worry about mistakes at this stage
+
+## Advanced Gesture Drawing
