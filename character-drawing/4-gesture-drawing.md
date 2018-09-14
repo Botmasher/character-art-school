@@ -122,3 +122,56 @@
   - so many of the instructor's students worry about mistakes at this stage
 
 ## Advanced Gesture Drawing
+- work from your reference but merely as a guide
+- reference eample of a dancer/stretcher
+- get the head, line of action, eyeline, shoulder line, pelvic line in
+- start adding shape and form to upper body
+- down to the legs getting the forms in
+- stay quick to avoid the stiffness trap of slow drawing
+- use contour shapes when something really sticks out and makes it believable
+  - the calf and the squash/stretch along the sides of the torso
+- skin following the abs and into arms
+- collarbone and breast positions
+- now lightly erase this and go back over really getting reference motion in
+  - still stay very fast and loose
+  - make curves dramatic (don't sacrifice drama)
+  - exaggerate the forms
+  - merely indicate anatomy in knees, prominent muscles and shapes
+  - basic shapes for clothing
+- now go to refined layer and get the lines in
+  - no longer working much from reference
+  - get lines and line weights that capture and enhance the gesture
+  - avoid too much detail on hands and feet
+  - keep lines directional
+  - enhance key overlaps
+  - indicate anatomical lines for effect: ribcage, overall hand shape
+- we are not recreating references but stealing from life to capture gestures
+- instructor compares the final to a more detailed sketch
+  - this has the right silhouette and more details like face, hair
+  - but it captures the outline of the image more than it does the movement
+  - do _not_ copy the contours of the reference piece
+- make sure you capture the pose, forms, motion, gesture rather than details
+
+## Life Gestures
+- capture the overall gesture/pose of someone in real life
+- this goes so quickly it's really mainly about capturing the gestural shape
+- grab the dynamism very quickly from their forms
+- capturing life forms
+  - keep it sketchy and very messy
+  - get the directional flow
+  - tempted to spend more time but keep it very fast
+- later take these and go over them to actually do a character
+- simplify angles
+- a few interesting detail hints that will serve as reminders or captures
+  - what people are holding, sitting on, wearing or their hair
+  - it's not about the details
+
+## How to: Gesture Exercises
+- image viewer on one side, art program on the other
+- use the "Gesture Studies Template" from Module 4
+  - 20 per sheet
+  - if using traditional page instead do about four per page
+- draw on the right based on timing assigment (60s, 120s, ...)
+- From here move to the assigments
+  - dynamic shape, dynamic form, anatomical & life gestures
+  - 20 of each with time limit
