@@ -1,4 +1,4 @@
-## 4. Gesture Drawing Foundations
+# 4. Gesture Drawing Foundations
 
 ## What is Gesture?
 - not always life drawings from photos or models
