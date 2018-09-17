@@ -1,4 +1,4 @@
-# Character Drawing Workflows
+# 5. Character Drawing Workflows
 
 ## Workflow 1: Two Stage Workflow
 - rough and refined stages for character drawing
@@ -87,10 +87,23 @@
 - focus on getting workflow down
 
 ## DEMO: Realtime Workflow
--
+- observing workflow in action for a couple hours
+- this is the same one that was timelapsed for the multi-stage demo
+- instructor is quick with strokes but deliberate and slow with timing
+- lots of undos
+- me: skipped forward a lot and watched pieces for a while
 
 ## Finding Your Ideal Workflow
--
+- have ideas and breakdown for building your own workflow
+- you could get more specific, starting with a shape-based lifelike gesture, ...
+- figure out which theories work best for you
+- two-stage workflows combine many theories together
+  - form for body but shape for limbs if already know how to
+  - tweak and mold to get theories towards your goals (push gesture, push anatomy)
+- no workflow is perfect and everyone has their own
+  - this can be used as your foundation
 
 ## Module 5 Assignments
--
+- see resources for one four-stage and one two-stage workflow assignment
+- these are ongoing, asking you to do 20 characters in four-stage before trying two-stage
+- consider each a "mark of progress" rather than "an end in itself"
