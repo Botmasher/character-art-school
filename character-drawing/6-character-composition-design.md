@@ -72,4 +72,65 @@
 - even the background elements can react to the primary action
 
 ## Gender and Age Differences
+- drawing masculinity and femininity in your characters
+- rigid angles vs curvier lines
+- narrower pelvis vs wider pelvis
+- broader shoulders vs narrower shoulders
+- thicker neck vs thinner neck
+- smaller eyes vs bigger eyes
+- bigger nose vs smaller nose
+- 8 head female vs 6 head child
+  - compress torso first to show age difference
+  - then other proportions should compress following that
+  - head size though stays similar
+  - _or_ increase head size to look younger
+- forehead size indicates age
+  - shortening as character ages
+  - babies with facial features low on face and massive foreheads
+- remember these can pull a character in a direction
+  - general guidelines, not things to avoid at all costs
+  - mix and match unless you're aiming for something stereotypical
+
+## Character Design Essentials
+- what is your _vision_: idea, feel, story
+  - keep asking yourself this as you design
+  - this is not a mental image instead it's the _who_ of the character
+  - people should believe this character
+- bad ideas drawn well are bad ideas, good ideas drawn badly are still good ideas
+- things to ask while drawing
+  - what is the character thinking or feeling?
+    - not "holding a glass of water" but "what a race, I'm sooo thirsty!"
+  - what are their names, contexts, aspirations?
+    - not "sad with slumped shoulders" but "just lost her dog"
+  - what do they feel their goals or purposes are?
+    - act out or inhabit the character to tell their story
+- avoid clichés
+  - a cliché is a symbolic parallel
+  - add a twist if you're in a genre or universe
+  - we have such a small window of time to capture a viewer
+  - give them not a good drawing but a believable world and character
+
+## Points of Focus
+- rule of thirds for the "picture plane"
+  - it's just one system
+  - but you can use one of a few systems to divide up a page
+- problem: composing a character doesn't work this way
+  - it works when laying out a character in an environment
+  - composing good characters requires thinking differently
+- focal points
+  - the head is primary
+  - secondary is the hands
+- avoid messing up the whole piece:
+  - so draw the head and the face well
+  - also get really good at hands ("it's time, people!")
+  - awesome body won't overcome bad head and hands
+- create a visual loop
+  - viewer looks at the head
+  - viewer looks at the hands but those lead back to the head...
+  - this can be done with other art too so pay attention for loops
+- facial composition
+  - eyes are the first focal point
+  - mouth is second focal point
+  - loops are harder but mouth should back up the eye expression
+  - the body then supports those eye and mouth expressions
 - 
