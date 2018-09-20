@@ -133,4 +133,55 @@
   - mouth is second focal point
   - loops are harder but mouth should back up the eye expression
   - the body then supports those eye and mouth expressions
+
+## Making Characters Unique
+- what makes someone iconic?
+  - what's one thing you could change would completely remove the character's aesthetic?
+  - what defines who the character is?
+- this moves towards getting "a look" for a character
+- iconographic hair styles and clothing that sets character apart
+  - definitive elements
+  - what are the primary definitive elements?
+- distill the character to that one thing that you can add or subtract
+- "What one thing, if I removed it, would have my character cease to be iconic?"
+
+## Utilizing Symbolism
+- square, circle, triangle convey shape meaning
+- rectangular shapes as sturdy, strong, powerful, dependable
+- circular shapes as friendly, soft, cute, gentle
+- triangular shapes as sharp, mysterious, dangerous
+- examples of a single face with elements of these shapes
+
+## Silhouette
+- silhouette values are good when they read clearly and make sense
+- you should be able to tell what characters and objects are from the silhouette
+- this adds weight to believability
+- your character's pose and elements should read in silhouette
+- avoid flyswatting problem
+  - do _not_ start drawing every component outside of the form
+  - this makes characters look hit by a flyswatter
+  - the silhouette and the forms should read well and believably
+- instead draw with overlaps to introduce depth
+  - you can hide an arm behind the back or one leg behind another
+  - balance silhouette value and overlaps
+- look at real-life examples to see what kind of values good silhouettes have
+
+## The Three Core Elements of Character Design
+- always focus on these three things when drawing characters
+1. facial expression
+  - the head is the primary focal point in the piece
+  - the face must read clearly
+2. pose
+  - support the feeling of the facial expression with the pose
+  - this must have a good silhouette
+  - the pose must have dynamism, opposing curves and be theoretically correct
+  - do not master the head and avoid the pose
+3. clothing and accessories
+  - these tell the viewer about the character's world
+  - what are their colors, styles, ...
+- the workflow you adopt should make sure these tie in to your idea
+- cover your bases here and check yourself on these points
+- these points also translate to design generally
+
+## The 5 Core Elements of Character Composition
 - 
