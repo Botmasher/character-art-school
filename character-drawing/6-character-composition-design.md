@@ -184,4 +184,63 @@
 - these points also translate to design generally
 
 ## The 5 Core Elements of Character Composition
-- 
+- artists lean on references too much or just can't imagine / figure out poses
+- instead commit these five guidelines to memory
+1. primary and secondary lines of action
+2. horizontal and vertical tilts
+3. twisting elements
+4. foreshortening
+5. multiple object overlaps
+- include all of them in your character for a dynamic pose
+  - make sure to stick to theory as well
+  - check box each one to make sure you have it in
+1. lines of action
+  - rhythmic flow through primary line running through secondary ones
+  - no strong breaks countering the flow
+  - forms should follow this flow using opposing curves
+2. tilts
+  - horizontal eye, shoulder, pelvic, knee lines should not be parallel
+  - this keeps the figure from feeling static
+3. twisting elements
+  - often students draw every element facing the same direction
+  - pay attention to plane normals for head, chest, pelvis, knees
+  - add rotations to elements
+  - simple example: take a head and twist it to face the other way
+  - smaller things like wrists and forearms can twist
+  - add dynamism by twisting things every which way
+  - this is subtle and doesn't require adding much detail
+4. foreshortening
+  - instead of twisting hand up towards arm, bring hand closer to the viewer
+  - then the hand is bigger and overlaps the arm, the arm is shortened
+  - size body elements based on distance
+  - extreme foreshortening adds lots of drama
+    - like a fist punching toward camera
+    - or a sword from hand towards camera
+  - recommended to add 1-3 foreshortened elements per piece
+5. overlaps
+  - a couple of overlaps aren't interesting enough
+  - hair can overlap heads, clothing can overlap, arms can overlap
+  - circle and count overlaps
+  - have a bunch of large overlaps to imply depth
+- make sure to do these five things to level up your art
+- do drawovers of some of your favorite pieces and look for improvements
+  - what are the lines of action?
+  - tilts: generally if you don't have horizontal you avoid vertical
+  - is there no major twisting?
+    - in the roughs introduce some big twists
+  - foreshortening: avoids parallel lines in things like rect props
+  - overlaps: start with head and work around body, paying attention to limbs
+- this all adds dynamism to the piece
+  - overlaps do great work _but_ balance with the silhouette
+  - remember, how well do the silhouette values read?
+- follow these five and check the boxes
+  - these don't replace reference material but they do help draw common poses
+
+## Using All Your Knowledge
+- make sure you use all of the theory so far
+- don't be wasteful, if you could have used some piece of theory, why skip it?
+- story and emotion as elements that make your characters great
+
+## Module 6 Assignments
+- create a checklist of all the theories, then draw 5 character pieces
+- then draw 5 more character pieces, as professionally as possible, waist-up only
