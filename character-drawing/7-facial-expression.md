@@ -57,3 +57,42 @@
   - angry down tail-to-head for very upset
   - lower straight for focused
   - upwards slanted tail-to-head for very quizzical
+
+## Keys to Expressing with the Mouth
+- remember that the mouth is wrapping around, not a flat line
+- focus above all on the lower line of the upper lip
+  - a couple lines above and below this and the lip can read quickly
+  - indicate the lip anatomy with two lines medially on the upper lip
+  - the upper lip casts a bit of a shadow
+- corners are key for expressing
+  - shade or dot them to see expressions when corners pull up/down/neutral
+- keys to mouth expression:
+  - nice, dark upper lips lower line
+  - corners of the mouth imply and even strongly change the expression
+  - jaw movement
+  - cheek movement
+- jaw movement
+  - understand where the jaw line is
+  - jaw line should significantly drop when mouth expressions are large
+  - skin should stretch when jaw line drops
+- normal lip opening positions
+  - slightly open with line curving around as normal position
+  - more open with top line still in place but lower lip curving more down
+  - me: you can see upper teeth and into the mouth
+- circular lip opening positions (whistle, kiss)
+  - the upper lip becomes triangular while the bottom rounds
+  - kissing shape has both more circular and a smaller circle shape
+  - me: you can see both upper and lower teeth
+- wide lip opening positions (singing, laughing, yelling)
+  - stretch the top and lower lips wide with the triangular upper and circular lower
+  - singing has a very round shape with more teeth anatomy, tongue, uvula
+  - gritting the teeth moves lips in bone shape and lots of teeth
+- remember that the upper lip line should overlap the lower lip line
+- cheek movement
+  - as smiles widen and open, the cheeks compress
+  - fake smiles do not involve eyes, instead compress the lower eyelid
+  - lines around nose also show cheek muscle compressing (depending on style)
+  - without these lines the smile looks fake to many viewers
+
+## Demo: Facial Expressions and Emotions
+- 
