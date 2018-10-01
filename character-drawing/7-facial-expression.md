@@ -95,4 +95,57 @@
   - without these lines the smile looks fake to many viewers
 
 ## Demo: Facial Expressions and Emotions
-- 
+- expressions take a lot of trial and error
+- "worried"
+  - tilt the eyes down laterally
+  - avoid but take from "sad" incl eyebrows slanting down laterally
+  - look to the side
+  - neutral mouth expression but with corners dropping
+  - try opening the mouth
+  - try subtly changing the angles of eyebrows
+  - try again keeping lips tighter and browline down more
+  - me: I'm still not convinced by this take
+- "in awe"
+  - high brows and wide eyes
+  - mouth is also open wide but circular
+  - take the lower jaw down for mouth movement downwards
+  - move iris inwards to get more focused, human look
+  - make space above and below iris and open pupil
+  - very small bit of eyelid
+  - erase and redo jawline for more stretch of jaw downward
+- "tired"
+  - emphasize the upper eyelids
+  - give circles below eyes
+  - mouth a bit down at the corners
+  - eyebrows in "very neutral" position
+  - lift brows if the face looks too bored or meh
+  - slightly open the mouth
+- "smiling" (real)
+  - eyebrows slightly angled
+  - upper eyelids are visible
+  - see bottom of iris but not top
+  - smile line of the mouth with corners high
+  - open the mouth up a lot
+  - stretch lower jaw
+  - now curve lower lid line for real smile
+  - fix eyebrows so they curve up but also back down a bit medially
+  - smile lines around the nose if desired
+  - teeth in the mouth
+  - lip stretch will thin the lips a bit
+- "alluring"
+  - start with normal eyes and low eyebrows
+  - show a lot of upper lid but less iris and pupil
+  - emphasize the upper lid line
+  - avoid dull eyebrows and raise them slightly
+  - corners of mouth a bit up and mouth a bit open
+    - positie vs edgy
+- "scared"
+  - eyes a bit shocked while eyebrows are sad
+  - this can moved towards terrified
+  - try a lip bite with teeth and a c-shape down lower lip
+  - eyebrows are low but with that medial high turn
+  - mouth corners point down
+
+## Module 7 Assignments
+- "expression sheets": three grid of 8 heads with emotions from the emotion keywords list
+- fast and loose expressions in real life observational drawings (sketchbook pages)
