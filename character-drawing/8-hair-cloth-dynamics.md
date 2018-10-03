@@ -53,5 +53,36 @@
   - bulbous: tapering on one side, broad base, very broad middle
 - the above types are for clumps more than just individual strands
 
+## Basic Hair Shapes
+- line strokes
+  - separate curves for untidy look
+- flicks of hair tapering at both ends
+  - give extra hair clumps
+  - look like they're coming out from under another section of hair
+- swoops
+  - come from under one part and goes back into another
+  - leave negative space
+  - gives interesting style
+- front-hair swoops
+  - commonly fringing or bangs
+  - hair fans out backwards from the top side but comes back and ends visibly
+- curls
+  - hair continuously rotating in on itself
+  - make sure overlaps read clearly
+  - think about the shapes and the overlaps
+- plaits
+  - a continuous braiding shape
+  - consider an overlapping pair of angle shapes duplicated over and over
+  - there are many types though
+  - this is also heavy on overlaps
+- vary the size of hair shapes as you keep drawing
+  - things will be kind of repetitive but with much variation
+- understand the key theory and don't get into the minutiae
+- gives a demo showing each of the above shapes added atop a basic style
+- during the detail work build up the masses but vary the sizes
+- don't stick rigidly to the rough plan
+- don't redraw over and over to get the hair right
+- instead keep it loose
+
 ##
 -
