@@ -84,5 +84,31 @@
 - don't redraw over and over to get the hair right
 - instead keep it loose
 
-##
--
+## Demo: Drawing Hair and Hairstyles
+- first has a sketchy, loose, kind of wavy hair
+- just a minute or so is enough for the planning phase
+- next start underlapping and overlapping hair, avoiding parallels
+- now start in on refined, picking points and pulling hair from them
+  - instructor tries and retries strokes many times
+  - remember volumes so sometimes you can see multiple sides of hair pieces
+  - really focus on making overlaps happen
+- the first one turned out messy
+  - realistic tip: _increase "LOD"_ going into and coming out of the chunks
+  - but do not put a bunch of hair strands inside the masses
+  - massing should read just as well as overlaps
+- second example has hair leafs sprouting up and out
+  - you could sprout from anywhere
+  - pull some on the sides down to show gravity
+  - use bulbous shape for short, spiky style and vary the shapes
+  - lighten this a lot for clear overlap visibility
+  - hair lines and overlaps don't generally require supporting detail; once in in
+- third example will be straight modern hair
+  - bangs over forehead in front
+  - cover the entire ear
+  - suggest straight hair where it's been cut
+  - make sure planning includes enough detail to be useful in detail
+  - again keep your overlaps in mind and your arm loose
+- instructor avoids perfect styling and instead focuses on suggesting style to viewer
+
+## Cloth Dynamics
+- 
