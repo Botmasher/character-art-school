@@ -111,4 +111,65 @@
 - instructor avoids perfect styling and instead focuses on suggesting style to viewer
 
 ## Cloth Dynamics
-- 
+- cloth dynamics as like hair dynamics
+  - stay just as loose as when you draw hair
+  - plan the clothing shape before adding folds and overlaps
+  - consider gravity when thinking about directionality
+  - think about how fabric squashes and stretches
+  - avoid sharp points in general, going for round angles or bends
+  - consider the _point of tension_: where is the cloth pulled from
+  - avoid thickness (double lines in line art) except for thicker forms
+  - follow the contour of underlying anatomy
+- consider types of folds
+  - pipe
+    - imagine curtain hanging from top source
+    - cylindrical in-out forms following cylinder contour towards bottom
+    - long dresses, curtains and generally longer cloth have this
+    - pipe folds definitely have overlaps with long lines
+  - zigzag
+    - moderate compression causes zigzagging
+    - wrap overlaps on top of the cylinder (like an arm or any underlying form)
+    - show indentation or crinkle with a curve/shadow inside and below a fold
+      - these can include nice, deep shadows for lots of compression
+    - knees of pants, sports jackets pulled up on the arm, pant leg above shoe
+  - spiral
+    - constant back-forth tight snake curves yielding a kind of continuous spiral
+    - used in cases of heavy compression
+    - many more indentation shading shapes
+    - plan these folds and avoid symmetrical sides
+    - leave room for clothing lines so it doesn't look like a robot part
+    - avoid controlling the lines since clothing folds are loose and not neat
+    - long falling socks compressing,
+  - half lock
+    - compression on one side, stretch on the other
+    - tight folds at a point of tension
+    - tension point is away from folds, like at the elbow
+    - areas of expansion are lateral from the tension, compression is opposite
+      - imagine lines of expansion from the tension, then compression hypotenuse
+    - pay attention to lines from complex points of tension
+      - pants don't just spam folds from crotch as often drawn
+      - instead, pants have fold lines that tend to go horizontally
+    - imagine a bending arm
+  - diaper
+    - two points of suspension with gravity pulling down
+    - fabric folds near the two pinned points
+    - then fabric lower down c-curves between the two sides
+    - this has to do with center of gravity in the middle of the cloth
+    - imagine a knight's tabard, a long rectangular cloth with a neck hole
+  - drop
+    - easier with just one point
+    - this has folds bunching up downward from the pin point
+    - the lines can overlap
+    - towards the bottom they look like they widen
+    - imagine a hanging towel
+  - inert
+    - infer some energy at some point but now inactive material
+    - the kinds of shading shapes used for deep crinkles really come in here
+    - imagine a cloth over a ball
+- cloth folds aren't as complex to draw as they first appear
+- it takes observation to draw clothing well
+- but these foundations will help convey believable cloth for characters
+
+## Module 8 Assignments
+- hair sheets for 8 heads
+- and clothing sheets for the 7 types of folds
