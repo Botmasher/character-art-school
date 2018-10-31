@@ -43,4 +43,28 @@
   - high-level detailed paint requires cleaner lines, but this is a style
 
 ## Character Page Composition
-- 
+- consider where characters falls on the page
+- "rules of the page" for one character
+  - page has borders
+  - _rule of thirds_: divide page into 3x3 grid
+  - consider where lines intersect
+- thirds-based composition: focus on character's head in one of those intersection points
+  - this works for "L-shaped" poses
+- _iconographic composition_ for single characters though
+  - not partially off the page
+  - not too big/small
+  - keep margin of space framing the character
+  - page borders are design elements
+- sign and date
+  - do not add it in a focal point
+  - make it seen but not part of the piece
+  - corners or adjacent to piece for completeness
+- designers should add website somewhere in the page but keep it light
+  - consider writing your name beside your signature
+
+## Final Assignment
+- five final character drawings
+  - first focus on story and emotions behind each character
+  - do preliminary thumbs and take notes
+  - full body, thigh-up or bust-up
+  - complete including the final line art
