@@ -36,4 +36,56 @@
   - emphasize the overlaps
 
 ## ChronoViper
-- 
+- starts with form, tilts to capture gesture
+- focus on arms and overlaps to show off the large held object
+- braids swinging out into ponytail as special feature
+- make sure the features and shapes are reading as silhouettes
+  - this is part of simultaneous shape-form workflow
+  - shape as much of fundamentals here
+  - any seeming details at this point are focused on readability
+- dealing with industrial design (mechanical structures and items)
+  - first get planks or straight-edge forms in there
+  - then adjust lines to shape it and get it to read
+  - you can then start to rough in more specific shapes
+  - use a guideline to keep lines straight and parallel (no skew!)
+  - you may end up adding more detail so next stage has foundational elements
+- keep asking: is this shape, form or detail?
+- more industrial/mechanical detail and overlaps across the body in the rough
+  - make sure you're still keeping it free and iterating
+  - _but_ also make sure you've got the right proportions and shapes
+- rough considerations: make sure you run through checklists
+  - which way is wind blowing? is hair and clothing blowing that way?
+  - do the mechanical elements all look right?
+  - ...
+- now stage for going over and tightening foundation
+- composition: what points to what? what needs adjusting?
+  - here instructor adjusts ponytail and adds dagger to point to character face
+  - hold attention in the piece
+  - adds subelement to industrial element only to refashion it
+  - make sure to keep believability (like if element needs a mount or something)
+- do a form check, sketching out the character's forms on a layer
+  - avoid back arching past what's humanly possible
+  - instructor took a bit over 2h to get to this point
+  - anatomical gesture drawings make sure you can do well by this point
+- refinement: now it's a detailing rough stage
+  - should character have extra elements?
+  - shift your mind out of construction
+  - avoid theory and be free and creative (you can make changes to your plans!)
+- get in the lines
+  - even do line weighting around the face to make sure that reads
+  - the rest are light and basic
+  - the rest of the line weighting will be done on another pass
+- then use lighting knowledge to add texture
+  - this especially because the character will not be painted
+- detail on the hair and notably braids
+  - use tools to speed up your work (like copy + warp tools for braid pattern)
+- fill in elements like emblem for detail
+- instructor makes interesting decisions around belts, ribbons, small details
+- get in the unique elements around teleportation minipads
+- go back and fix hair angles, overlaps, weights
+  - creases and braids
+- lights and shadows comic style
+  - use shapes, giving "implied detail"
+  - definitely take a look at this to get a sense for how it works
+- get better: really focus on the foundations throughout the course
+  - do not get overwhelmed by the details
